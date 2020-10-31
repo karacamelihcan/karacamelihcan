@@ -13,7 +13,7 @@ Feel free to contact with me via these platforms! 🤓
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karacamelihcan&count_private=true&show_icons=true&theme=radical">
-  <img width="450px" height="195px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=karacamelihcan&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karacamelihcan&layout=compact&theme=radical">
 </p>
 
 ## :boom: some projects that I am still working on or completed it  :computer:
