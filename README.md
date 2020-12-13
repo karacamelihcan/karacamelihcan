@@ -16,18 +16,7 @@ Feel free to contact with me via these platforms! 🤓
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karacamelihcan&layout=compact&theme=radical">
 </p>
 
-## :boom: some projects that I am still working on or completed it  :computer:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karacamelihcan&repo=The-JavaScript-Beginner-s-Handbook-2020-Edition&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karacamelihcan&repo=the-docker-handbook&theme=radical">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karacamelihcan&repo=Winkel&theme=radical">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karacamelihcan&repo=TodoApplication&theme=radical">
-</p>
 
 <!--
 **karacamelihcan/karacamelihcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
