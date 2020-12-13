@@ -23,7 +23,6 @@ Feel free to contact with me via these platforms! 🤓
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=karacamelihcan&repo=the-docker-handbook&theme=radical">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karacamelihcan&repo=Library-Management-System&theme=radical">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=karacamelihcan&repo=Winkel&theme=radical">
 </p>
 <p align="center">
